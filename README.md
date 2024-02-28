@@ -1,2 +1,5 @@
-# hyperblog
-Un blog increíble para el curso de Git y Github de Platzi
+#Bienvenido a GitHub 💛
+##### Curso en platzi
+
+[![new](https://i.imgur.com/X9Icys2.jpeg "new")](https://i.imgur.com/X9Icys2.jpeg "new")
+
